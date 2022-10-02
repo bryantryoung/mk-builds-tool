@@ -1,0 +1,737 @@
+Character,Body,Tire,Glider,Speed,Acceleration,Weight,Handling,Traction/Grip,Mini-Turbo
+"Toadette, Wendy, Isabelle",Biddybuggy,Roller,Cloud Glider,1.25,5.75,1.25,5.0,3.75,5.0
+"Toadette, Wendy, Isabelle",Biddybuggy,Roller,Parafoil,1.25,5.75,1.5,5.0,3.5,5.0
+"Toadette, Wendy, Isabelle",Mr. Scooty,Roller,Cloud Glider,1.25,5.75,1.25,5.0,3.5,5.5
+"Toadette, Wendy, Isabelle",Mr. Scooty,Roller,Parafoil,1.25,5.75,1.5,5.0,3.25,5.5
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Roller,Parafoil,1.75,5.5,1.75,4.75,3.75,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Roller,Cloud Glider,1.75,5.5,1.5,4.75,4.0,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Roller,Cloud Glider,1.75,5.5,1.5,4.75,3.75,5.25
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Roller,Parafoil,1.75,5.5,1.75,4.75,3.5,5.25
+"Cat Peach, Inkling Girl, Villager Girl",Streetle,Roller,Cloud Glider,2.0,5.25,1.5,3.75,3.25,5.25
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Roller,Wario Wing,2.0,5.25,2.0,4.75,3.5,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Mr. Scooty,Roller,Parafoil,2.0,5.25,2.25,4.5,3.0,5.25
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Button,Cloud Glider,2.0,5.25,1.5,4.5,3.5,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Landship,Roller,Parafoil,2.0,5.25,1.75,3.75,4.0,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Landship,Roller,Cloud Glider,2.0,5.25,1.5,3.75,4.25,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Mr. Scooty,Roller,Cloud Glider,2.0,5.25,2.0,4.5,3.25,5.25
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Leaf Tires,Parafoil,2.0,5.25,1.75,4.5,3.5,4.5
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Button,Parafoil,2.0,5.25,1.75,4.5,3.25,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Streetle,Roller,Parafoil,2.0,5.25,1.75,3.75,3.0,5.25
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Leaf Tires,Cloud Glider,2.0,5.25,1.5,4.5,3.75,4.5
+"Tanooki Mario, Inkling Boy, Villager Boy",Biddybuggy,Roller,Parafoil,2.0,5.25,2.25,4.5,3.25,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Roller,Super Glider,2.0,5.25,1.75,4.75,3.75,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Button,Parafoil,2.0,5.25,1.75,4.5,3.5,4.5
+"Tanooki Mario, Inkling Boy, Villager Boy",Biddybuggy,Roller,Cloud Glider,2.0,5.25,2.0,4.5,3.5,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Button,Cloud Glider,2.0,5.25,1.5,4.5,3.75,4.5
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Leaf Tires,Cloud Glider,2.0,5.25,1.5,4.5,3.5,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Roller,Wario Wing,2.0,5.25,2.0,4.75,3.75,4.5
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Roller,Super Glider,2.0,5.25,1.75,4.75,4.0,4.5
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Leaf Tires,Parafoil,2.0,5.25,1.75,4.5,3.25,5.0
+"Peach, Daisy, Yoshi",Mr. Scooty,Roller,Parafoil,2.0,5.25,2.0,4.5,3.5,5.25
+"Cat Peach, Inkling Girl, Villager Girl",Pipe Frame,Roller,Cloud Glider,2.0,5.25,1.75,4.75,3.75,5.0
+"Peach, Daisy, Yoshi",Mr. Scooty,Roller,Cloud Glider,2.0,5.25,1.75,4.5,3.75,5.25
+"Peach, Daisy, Yoshi",Biddybuggy,Roller,Cloud Glider,2.0,5.25,1.75,4.5,4.0,4.75
+"Peach, Daisy, Yoshi",Biddybuggy,Roller,Parafoil,2.0,5.25,2.0,4.5,3.75,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Pipe Frame,Roller,Parafoil,2.0,5.25,2.0,4.75,3.5,5.0
+"Peach, Daisy, Yoshi",Streetle,Roller,Cloud Glider,2.25,5.0,1.75,3.5,3.25,5.25
+"Tanooki Mario, Inkling Boy, Villager Boy",Pipe Frame,Roller,Parafoil,2.25,5.0,2.5,4.5,3.0,5.0
+"Peach, Daisy, Yoshi",Streetle,Roller,Parafoil,2.25,5.0,2.0,3.5,3.0,5.25
+"Tanooki Mario, Inkling Boy, Villager Boy",Pipe Frame,Roller,Cloud Glider,2.25,5.0,2.25,4.5,3.25,5.0
+"Peach, Daisy, Yoshi",Mr. Scooty,Leaf Tires,Parafoil,2.25,5.0,2.0,4.25,3.25,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Biddybuggy,Roller,Super Glider,2.25,5.0,2.25,4.5,3.5,4.5
+"Peach, Daisy, Yoshi",Mr. Scooty,Roller,Wario Wing,2.25,5.0,2.25,4.5,3.5,5.0
+"Peach, Daisy, Yoshi",Mr. Scooty,Leaf Tires,Cloud Glider,2.25,5.0,1.75,4.25,3.5,5.0
+"Peach, Daisy, Yoshi",Mr. Scooty,Button,Cloud Glider,2.25,5.0,1.75,4.25,3.5,5.0
+"Peach, Daisy, Yoshi",Mr. Scooty,Roller,Super Glider,2.25,5.0,2.0,4.5,3.75,5.0
+"Peach, Daisy, Yoshi",Mr. Scooty,Button,Parafoil,2.25,5.0,2.0,4.25,3.25,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Landship,Roller,Parafoil,2.25,5.0,2.25,3.5,3.5,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Biddybuggy,Button,Cloud Glider,2.25,5.0,2.0,4.25,3.25,4.5
+"Mario, Ludwig",Mr. Scooty,Roller,Parafoil,2.25,5.0,2.5,4.25,3.25,5.0
+"Mario, Ludwig",Mr. Scooty,Roller,Cloud Glider,2.25,5.0,2.25,4.25,3.5,5.0
+"Mario, Ludwig",Biddybuggy,Roller,Parafoil,2.25,5.0,2.5,4.25,3.5,4.5
+"Mario, Ludwig",Biddybuggy,Roller,Cloud Glider,2.25,5.0,2.25,4.25,3.75,4.5
+"Luigi, Iggy",Mr. Scooty,Roller,Parafoil,2.25,5.0,2.5,4.5,3.0,5.0
+"Luigi, Iggy",Mr. Scooty,Roller,Cloud Glider,2.25,5.0,2.25,4.5,3.25,5.0
+"Luigi, Iggy",Biddybuggy,Roller,Parafoil,2.25,5.0,2.5,4.5,3.25,4.5
+"Luigi, Iggy",Biddybuggy,Roller,Cloud Glider,2.25,5.0,2.25,4.5,3.5,4.5
+"Tanooki Mario, Inkling Boy, Villager Boy",Mr. Scooty,Leaf Tires,Parafoil,2.25,5.0,2.25,4.25,2.75,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Mr. Scooty,Leaf Tires,Cloud Glider,2.25,5.0,2.0,4.25,3.0,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Mr. Scooty,Button,Parafoil,2.25,5.0,2.25,4.25,2.75,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Mr. Scooty,Button,Cloud Glider,2.25,5.0,2.0,4.25,3.0,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Mr. Scooty,Roller,Wario Wing,2.25,5.0,2.5,4.5,3.0,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Mr. Scooty,Roller,Super Glider,2.25,5.0,2.25,4.5,3.25,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Streetle,Roller,Parafoil,2.25,5.0,2.25,3.5,2.5,5.25
+"Tanooki Mario, Inkling Boy, Villager Boy",Streetle,Roller,Cloud Glider,2.25,5.0,2.0,3.5,2.75,5.25
+"Peach, Daisy, Yoshi",Landship,Roller,Parafoil,2.25,5.0,2.0,3.5,4.0,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Landship,Roller,Cloud Glider,2.25,5.0,2.0,3.5,3.75,5.0
+"Tanooki Mario, Inkling Boy, Villager Boy",Biddybuggy,Leaf Tires,Parafoil,2.25,5.0,2.25,4.25,3.0,4.5
+"Tanooki Mario, Inkling Boy, Villager Boy",Biddybuggy,Leaf Tires,Cloud Glider,2.25,5.0,2.0,4.25,3.25,4.5
+"Tanooki Mario, Inkling Boy, Villager Boy",Biddybuggy,Button,Parafoil,2.25,5.0,2.25,4.25,3.0,4.5
+"Tanooki Mario, Inkling Boy, Villager Boy",Biddybuggy,Roller,Wario Wing,2.25,5.0,2.5,4.5,3.25,4.5
+"Peach, Daisy, Yoshi",Landship,Roller,Cloud Glider,2.25,5.0,1.75,3.5,4.25,5.0
+"Peach, Daisy, Yoshi",Biddybuggy,Leaf Tires,Parafoil,2.25,5.0,2.0,4.25,3.5,4.5
+"Peach, Daisy, Yoshi",Biddybuggy,Leaf Tires,Cloud Glider,2.25,5.0,1.75,4.25,3.75,4.5
+"Cat Peach, Inkling Girl, Villager Girl",Landship,Button,Parafoil,2.25,5.0,1.75,3.5,3.75,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Landship,Button,Cloud Glider,2.25,5.0,1.5,3.5,4.0,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Landship,Roller,Wario Wing,2.25,5.0,2.0,3.75,4.0,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Landship,Roller,Super Glider,2.25,5.0,1.75,3.75,4.25,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Leaf Tires,Wario Wing,2.25,5.0,2.0,4.5,3.5,4.25
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Leaf Tires,Super Glider,2.25,5.0,1.75,4.5,3.75,4.25
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Button,Wario Wing,2.25,5.0,2.0,4.5,3.5,4.25
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Button,Super Glider,2.25,5.0,1.75,4.5,3.75,4.25
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Standard,Parafoil,2.25,5.0,2.25,4.5,4.0,4.0
+"Cat Peach, Inkling Girl, Villager Girl",Biddybuggy,Standard,Cloud Glider,2.25,5.0,2.0,4.5,4.25,4.0
+"Cat Peach, Inkling Girl, Villager Girl",Cat Cruiser,Roller,Cloud Glider,2.25,5.0,2.0,4.5,3.5,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Pipe Frame,Leaf Tires,Parafoil,2.25,5.0,2.0,4.5,3.25,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Pipe Frame,Leaf Tires,Cloud Glider,2.25,5.0,1.75,4.5,3.5,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Pipe Frame,Button,Parafoil,2.25,5.0,2.0,4.5,3.25,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Pipe Frame,Button,Cloud Glider,2.25,5.0,1.75,4.5,3.5,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Pipe Frame,Roller,Wario Wing,2.25,5.0,2.25,4.75,3.5,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Pipe Frame,Roller,Super Glider,2.25,5.0,2.0,4.75,3.75,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Landship,Leaf Tires,Cloud Glider,2.25,5.0,1.5,3.5,4.0,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Landship,Leaf Tires,Parafoil,2.25,5.0,1.75,3.5,3.75,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Cat Cruiser,Roller,Parafoil,2.25,5.0,2.25,4.5,3.25,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Mercedes Silver Arrow,Roller,Parafoil,2.25,5.0,2.0,4.5,3.75,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Mercedes Silver Arrow,Roller,Cloud Glider,2.25,5.0,1.75,4.5,4.0,4.75
+"Peach, Daisy, Yoshi",Biddybuggy,Button,Parafoil,2.25,5.0,2.0,4.25,3.5,4.5
+"Peach, Daisy, Yoshi",Biddybuggy,Button,Cloud Glider,2.25,5.0,1.75,4.25,3.75,4.5
+"Peach, Daisy, Yoshi",Biddybuggy,Roller,Wario Wing,2.25,5.0,2.25,4.5,3.75,4.5
+"Peach, Daisy, Yoshi",Pipe Frame,Roller,Parafoil,2.25,5.0,2.25,4.5,3.5,5.0
+"Peach, Daisy, Yoshi",Pipe Frame,Roller,Cloud Glider,2.25,5.0,2.0,4.5,3.75,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Leaf Tires,Wario Wing,2.25,5.0,2.0,4.5,3.25,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Leaf Tires,Super Glider,2.25,5.0,1.75,4.5,3.5,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Button,Wario Wing,2.25,5.0,2.0,4.5,3.25,4.75
+"Peach, Daisy, Yoshi",Biddybuggy,Roller,Super Glider,2.25,5.0,2.0,4.5,4.0,4.5
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Standard,Parafoil,2.25,5.0,2.25,4.5,3.75,4.5
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Standard,Cloud Glider,2.25,5.0,2.0,4.5,4.0,4.5
+"Cat Peach, Inkling Girl, Villager Girl",Streetle,Leaf Tires,Parafoil,2.25,5.0,1.75,3.5,2.75,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Streetle,Leaf Tires,Cloud Glider,2.25,5.0,1.5,3.5,3.0,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Streetle,Button,Parafoil,2.25,5.0,1.75,3.5,2.75,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Streetle,Button,Cloud Glider,2.25,5.0,1.5,3.5,3.0,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Streetle,Roller,Wario Wing,2.25,5.0,2.0,3.75,3.0,5.0
+"Cat Peach, Inkling Girl, Villager Girl",Mr. Scooty,Button,Super Glider,2.25,5.0,1.75,4.5,3.5,4.75
+"Cat Peach, Inkling Girl, Villager Girl",Streetle,Roller,Super Glider,2.25,5.0,1.75,3.75,3.25,5.0
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Roller,Cloud Glider,3.0,4.75,2.75,3.75,3.25,4.25
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Roller,Cloud Glider,3.0,4.75,2.75,3.75,3.0,4.75
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Roller,Parafoil,3.0,4.75,3.0,3.75,3.0,4.25
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Roller,Parafoil,3.0,4.75,3.0,3.75,2.75,4.75
+"Bowser, Morton",Mr. Scooty,Roller,Parafoil,3.25,4.5,3.5,3.25,2.75,4.5
+"Donkey Kong, Roy, Waluigi",Landship,Roller,Parafoil,3.25,4.5,3.0,2.75,3.25,4.5
+"Donkey Kong, Roy, Waluigi",Landship,Roller,Cloud Glider,3.25,4.5,2.75,2.75,3.5,4.5
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Button,Cloud Glider,3.25,4.5,2.75,3.5,3.0,4.0
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Leaf Tires,Cloud Glider,3.25,4.5,2.75,3.5,3.0,4.0
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Button,Parafoil,3.25,4.5,3.0,3.5,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Roller,Wario Wing,3.25,4.5,3.25,3.75,3.0,4.0
+"Bowser, Morton",Mr. Scooty,Roller,Cloud Glider,3.25,4.5,3.25,3.25,3.0,4.5
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Leaf Tires,Parafoil,3.25,4.5,3.0,3.5,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Streetle,Roller,Cloud Glider,3.25,4.5,2.75,2.75,2.5,4.75
+"Wario, Dry Bowser",Mr. Scooty,Roller,Cloud Glider,3.25,4.5,3.0,3.5,3.25,4.5
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Roller,Super Glider,3.25,4.5,3.0,3.75,3.0,4.5
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Roller,Wario Wing,3.25,4.5,3.25,3.75,2.75,4.5
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Button,Cloud Glider,3.25,4.5,2.75,3.5,2.75,4.5
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Leaf Tires,Cloud Glider,3.25,4.5,2.75,3.5,2.75,4.5
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Leaf Tires,Parafoil,3.25,4.5,3.0,3.5,2.5,4.5
+"Wario, Dry Bowser",Biddybuggy,Roller,Cloud Glider,3.25,4.5,3.0,3.5,3.5,4.0
+"Wario, Dry Bowser",Biddybuggy,Roller,Parafoil,3.25,4.5,3.25,3.5,3.25,4.0
+"Wario, Dry Bowser",Mr. Scooty,Roller,Parafoil,3.25,4.5,3.25,3.5,3.0,4.5
+"Bowser, Morton",Biddybuggy,Roller,Parafoil,3.25,4.5,3.5,3.25,3.0,4.0
+"Bowser, Morton",Biddybuggy,Roller,Cloud Glider,3.25,4.5,3.25,3.25,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Streetle,Roller,Parafoil,3.25,4.5,3.0,2.75,2.25,4.75
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Roller,Super Glider,3.25,4.5,3.0,3.75,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Button,Parafoil,3.25,4.5,3.0,3.5,2.5,4.5
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Roller,Parafoil,3.25,4.5,3.25,3.75,2.75,4.5
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Roller,Cloud Glider,3.25,4.5,3.0,3.75,3.0,4.5
+"Bowser, Morton",Biddybuggy,Leaf Tires,Parafoil,3.5,4.25,3.5,3.0,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Roller,Cloud Glider,3.5,4.25,3.0,3.5,3.25,4.25
+"Wario, Dry Bowser",Mr. Scooty,Button,Cloud Glider,3.5,4.25,3.0,3.25,3.0,4.25
+"Wario, Dry Bowser",Biddybuggy,Leaf Tires,Parafoil,3.5,4.25,3.25,3.25,3.0,3.75
+"Wario, Dry Bowser",Biddybuggy,Leaf Tires,Cloud Glider,3.5,4.25,3.0,3.25,3.25,3.75
+"Donkey Kong, Roy, Waluigi",Landship,Leaf Tires,Parafoil,3.5,4.25,3.0,2.5,3.0,4.25
+"Donkey Kong, Roy, Waluigi",Landship,Leaf Tires,Cloud Glider,3.5,4.25,2.75,2.5,3.25,4.25
+"Wario, Dry Bowser",Mr. Scooty,Button,Parafoil,3.5,4.25,3.25,3.25,2.75,4.25
+"Wario, Dry Bowser",Biddybuggy,Button,Parafoil,3.5,4.25,3.25,3.25,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Landship,Button,Cloud Glider,3.5,4.25,2.75,2.5,3.25,4.25
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Roller,Parafoil,3.5,4.25,3.25,3.5,3.0,4.25
+"Donkey Kong, Roy, Waluigi",Landship,Roller,Wario Wing,3.5,4.25,3.25,2.75,3.25,4.25
+"Donkey Kong, Roy, Waluigi",Landship,Roller,Super Glider,3.5,4.25,3.0,2.75,3.5,4.25
+"Bowser, Morton",Biddybuggy,Roller,Super Glider,3.5,4.25,3.5,3.25,3.25,3.75
+"Bowser, Morton",Biddybuggy,Roller,Wario Wing,3.5,4.25,3.75,3.25,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Leaf Tires,Wario Wing,3.5,4.25,3.25,3.5,2.75,3.75
+"Wario, Dry Bowser",Biddybuggy,Roller,Wario Wing,3.5,4.25,3.5,3.5,3.25,3.75
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Leaf Tires,Super Glider,3.5,4.25,3.0,3.5,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Landship,Button,Parafoil,3.5,4.25,3.0,2.5,3.0,4.25
+"Bowser, Morton",Mr. Scooty,Roller,Super Glider,3.5,4.25,3.5,3.25,3.0,4.25
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Leaf Tires,Wario Wing,3.5,4.25,3.25,3.5,2.5,4.25
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Leaf Tires,Super Glider,3.5,4.25,3.0,3.5,2.75,4.25
+"Donkey Kong, Roy, Waluigi",Streetle,Roller,Super Glider,3.5,4.25,3.0,2.75,2.5,4.5
+"Donkey Kong, Roy, Waluigi",Streetle,Button,Cloud Glider,3.5,4.25,2.75,2.5,2.25,4.5
+"Donkey Kong, Roy, Waluigi",Streetle,Button,Parafoil,3.5,4.25,3.0,2.5,2.0,4.5
+"Wario, Dry Bowser",Mr. Scooty,Roller,Super Glider,3.5,4.25,3.25,3.5,3.25,4.25
+"Wario, Dry Bowser",Mr. Scooty,Roller,Wario Wing,3.5,4.25,3.5,3.5,3.0,4.25
+"Bowser, Morton",Mr. Scooty,Roller,Wario Wing,3.5,4.25,3.75,3.25,2.75,4.25
+"Donkey Kong, Roy, Waluigi",Streetle,Leaf Tires,Cloud Glider,3.5,4.25,2.75,2.5,2.25,4.5
+"Bowser, Morton",Mr. Scooty,Button,Cloud Glider,3.5,4.25,3.25,3.0,2.75,4.25
+"Donkey Kong, Roy, Waluigi",Streetle,Leaf Tires,Parafoil,3.5,4.25,3.0,2.5,2.0,4.5
+"Bowser, Morton",Mr. Scooty,Button,Parafoil,3.5,4.25,3.5,3.0,2.5,4.25
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Standard,Cloud Glider,3.5,4.25,3.25,3.5,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Standard,Parafoil,3.5,4.25,3.5,3.5,3.0,4.0
+"Bowser, Morton",Pipe Frame,Roller,Cloud Glider,3.5,4.25,3.5,3.25,3.0,4.25
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Button,Super Glider,3.5,4.25,3.0,3.5,2.75,4.25
+"Wario, Dry Bowser",Landship,Roller,Parafoil,3.5,4.25,3.25,2.5,3.5,4.25
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Button,Wario Wing,3.5,4.25,3.25,3.5,2.5,4.25
+"Wario, Dry Bowser",Landship,Roller,Cloud Glider,3.5,4.25,3.0,2.5,3.75,4.25
+"Bowser, Morton",Pipe Frame,Roller,Parafoil,3.5,4.25,3.75,3.25,2.75,4.25
+"Bowser, Morton",Mr. Scooty,Leaf Tires,Cloud Glider,3.5,4.25,3.25,3.0,2.75,4.25
+"Wario, Dry Bowser",Biddybuggy,Roller,Super Glider,3.5,4.25,3.25,3.5,3.5,3.75
+"Bowser, Morton",Streetle,Roller,Parafoil,3.5,4.25,3.5,2.25,2.25,4.5
+"Wario, Dry Bowser",Biddybuggy,Button,Cloud Glider,3.5,4.25,3.0,3.25,3.25,3.75
+"Wario, Dry Bowser",Pipe Frame,Roller,Parafoil,3.5,4.25,3.5,3.5,3.0,4.25
+"Wario, Dry Bowser",Streetle,Roller,Cloud Glider,3.5,4.25,3.0,2.5,2.75,4.5
+"Bowser, Morton",Mr. Scooty,Leaf Tires,Parafoil,3.5,4.25,3.5,3.0,2.5,4.25
+"Wario, Dry Bowser",Pipe Frame,Roller,Cloud Glider,3.5,4.25,3.25,3.5,3.25,4.25
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Roller,Parafoil,3.5,4.25,3.5,3.5,2.5,4.25
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Roller,Cloud Glider,3.5,4.25,3.25,3.5,2.75,4.25
+"Wario, Dry Bowser",Mr. Scooty,Leaf Tires,Cloud Glider,3.5,4.25,3.0,3.25,3.0,4.25
+"Bowser, Morton",Biddybuggy,Button,Parafoil,3.5,4.25,3.5,3.0,2.75,3.75
+"Bowser, Morton",Landship,Roller,Parafoil,3.5,4.25,3.5,2.25,3.25,4.25
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Leaf Tires,Parafoil,3.5,4.25,3.25,3.5,2.5,4.25
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Leaf Tires,Cloud Glider,3.5,4.25,3.0,3.5,2.75,4.25
+"Bowser, Morton",Landship,Roller,Cloud Glider,3.5,4.25,3.25,2.25,3.5,4.25
+"Bowser, Morton",Biddybuggy,Leaf Tires,Cloud Glider,3.5,4.25,3.25,3.0,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Button,Parafoil,3.5,4.25,3.25,3.5,2.5,4.25
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Button,Cloud Glider,3.5,4.25,3.0,3.5,2.75,4.25
+"Wario, Dry Bowser",Mr. Scooty,Leaf Tires,Parafoil,3.5,4.25,3.25,3.25,2.75,4.25
+"Bowser, Morton",Biddybuggy,Button,Cloud Glider,3.5,4.25,3.25,3.0,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Streetle,Roller,Wario Wing,3.5,4.25,3.25,2.75,2.25,4.5
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Standard,Cloud Glider,3.5,4.25,3.25,3.5,3.5,3.5
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Roller,Wario Wing,3.5,4.25,3.5,3.75,2.75,4.25
+"Bowser, Morton",Streetle,Roller,Cloud Glider,3.5,4.25,3.25,2.25,2.5,4.5
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Button,Super Glider,3.5,4.25,3.0,3.5,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Standard,Parafoil,3.5,4.25,3.5,3.5,3.25,3.5
+"Wario, Dry Bowser",Streetle,Roller,Parafoil,3.5,4.25,3.25,2.5,2.5,4.5
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Button,Wario Wing,3.5,4.25,3.25,3.5,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Roller,Super Glider,3.5,4.25,3.25,3.75,3.0,4.25
+"Wario, Dry Bowser",Landship,Button,Parafoil,3.75,4.0,3.25,2.25,3.25,4.0
+"Wario, Dry Bowser",Biddybuggy,Button,Super Glider,3.75,4.0,3.25,3.25,3.25,3.5
+"Wario, Dry Bowser",Pipe Frame,Leaf Tires,Cloud Glider,3.75,4.0,3.25,3.25,3.0,4.0
+"Wario, Dry Bowser",Landship,Button,Cloud Glider,3.75,4.0,3.0,2.25,3.5,4.0
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Standard,Wario Wing,3.75,4.0,3.75,3.5,3.0,3.75
+"Bowser, Morton",Streetle,Button,Cloud Glider,3.75,4.0,3.25,2.0,2.25,4.25
+"Wario, Dry Bowser",Mr. Scooty,Leaf Tires,Wario Wing,3.75,4.0,3.5,3.25,2.75,4.0
+"Bowser, Morton",Streetle,Button,Parafoil,3.75,4.0,3.5,2.0,2.0,4.25
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Standard,Super Glider,3.75,4.0,3.5,3.5,3.25,3.75
+"Wario, Dry Bowser",Biddybuggy,Standard,Parafoil,3.75,4.0,3.75,3.25,3.5,3.25
+"Bowser, Morton",Biddybuggy,Leaf Tires,Super Glider,3.75,4.0,3.5,3.0,3.0,3.5
+"Donkey Kong, Roy, Waluigi",Streetle,Leaf Tires,Super Glider,3.75,4.0,3.0,2.5,2.25,4.25
+"Bowser, Morton",Biddybuggy,Leaf Tires,Wario Wing,3.75,4.0,3.75,3.0,2.75,3.5
+"Wario, Dry Bowser",Mr. Scooty,Standard,Parafoil,3.75,4.0,3.75,3.25,3.25,3.75
+"Donkey Kong, Roy, Waluigi",Streetle,Button,Wario Wing,3.75,4.0,3.25,2.5,2.0,4.25
+"Wario, Dry Bowser",Cat Cruiser,Roller,Cloud Glider,3.75,4.0,3.5,3.25,3.0,4.0
+"Donkey Kong, Roy, Waluigi",Streetle,Button,Super Glider,3.75,4.0,3.0,2.5,2.25,4.25
+"Donkey Kong, Roy, Waluigi",Standard Kart,Roller,Cloud Glider,3.75,4.0,3.25,3.25,2.75,4.0
+"Wario, Dry Bowser",Pipe Frame,Leaf Tires,Parafoil,3.75,4.0,3.5,3.25,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Streetle,Leaf Tires,Wario Wing,3.75,4.0,3.25,2.5,2.0,4.25
+"Wario, Dry Bowser",Landship,Roller,Wario Wing,3.75,4.0,3.5,2.5,3.5,4.0
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Off-Road,Cloud Glider,3.75,4.0,3.5,3.0,3.5,3.5
+"Wario, Dry Bowser",Biddybuggy,Button,Wario Wing,3.75,4.0,3.5,3.25,3.0,3.5
+"Bowser, Morton",Streetle,Leaf Tires,Cloud Glider,3.75,4.0,3.25,2.0,2.25,4.25
+"Wario, Dry Bowser",Mr. Scooty,Button,Wario Wing,3.75,4.0,3.5,3.25,2.75,4.0
+"Bowser, Morton",Streetle,Leaf Tires,Parafoil,3.75,4.0,3.5,2.0,2.0,4.25
+"Bowser, Morton",Biddybuggy,Button,Wario Wing,3.75,4.0,3.75,3.0,2.75,3.5
+"Wario, Dry Bowser",Biddybuggy,Leaf Tires,Super Glider,3.75,4.0,3.25,3.25,3.25,3.5
+"Bowser, Morton",Streetle,Roller,Super Glider,3.75,4.0,3.5,2.25,2.5,4.25
+"Bowser, Morton",Biddybuggy,Standard,Cloud Glider,3.75,4.0,3.75,3.0,3.5,3.25
+"Wario, Dry Bowser",Biddybuggy,Leaf Tires,Wario Wing,3.75,4.0,3.5,3.25,3.0,3.5
+"Wario, Dry Bowser",Biddybuggy,Standard,Cloud Glider,3.75,4.0,3.5,3.25,3.75,3.25
+"Wario, Dry Bowser",Landship,Leaf Tires,Cloud Glider,3.75,4.0,3.0,2.25,3.5,4.0
+"Bowser, Morton",Mr. Scooty,Standard,Cloud Glider,3.75,4.0,3.75,3.0,3.25,3.75
+"Wario, Dry Bowser",Pipe Frame,Roller,Super Glider,3.75,4.0,3.5,3.5,3.25,4.0
+"Wario, Dry Bowser",Mr. Scooty,Button,Super Glider,3.75,4.0,3.25,3.25,3.0,4.0
+"Bowser, Morton",Mr. Scooty,Standard,Parafoil,3.75,4.0,4.0,3.0,3.0,3.75
+"Wario, Dry Bowser",Pipe Frame,Roller,Wario Wing,3.75,4.0,3.75,3.5,3.0,4.0
+"Bowser, Morton",Biddybuggy,Button,Super Glider,3.75,4.0,3.5,3.0,3.0,3.5
+"Donkey Kong, Roy, Waluigi",Standard Kart,Roller,Parafoil,3.75,4.0,3.5,3.25,2.5,4.0
+"Wario, Dry Bowser",Pipe Frame,Button,Cloud Glider,3.75,4.0,3.25,3.25,3.0,4.0
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Off-Road,Parafoil,3.75,4.0,3.75,3.0,3.25,3.5
+"Wario, Dry Bowser",Pipe Frame,Button,Parafoil,3.75,4.0,3.5,3.25,2.75,4.0
+"Bowser, Morton",Biddybuggy,Standard,Parafoil,3.75,4.0,4.0,3.0,3.25,3.25
+"Wario, Dry Bowser",Landship,Roller,Super Glider,3.75,4.0,3.25,2.5,3.75,4.0
+"Wario, Dry Bowser",Mr. Scooty,Leaf Tires,Super Glider,3.75,4.0,3.25,3.25,3.0,4.0
+"Bowser, Morton",Streetle,Roller,Wario Wing,3.75,4.0,3.75,2.25,2.25,4.25
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Button,Super Glider,3.75,4.0,3.25,3.5,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Streetle,Standard,Parafoil,3.75,4.0,3.5,2.5,2.5,4.0
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Standard,Wario Wing,3.75,4.0,3.75,3.5,3.25,3.25
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Standard,Parafoil,3.75,4.0,3.75,3.5,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Standard,Cloud Glider,3.75,4.0,3.5,3.5,3.25,3.75
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Off-Road,Cloud Glider,3.75,4.0,3.5,3.0,3.75,3.0
+"Bowser, Morton",Landship,Leaf Tires,Cloud Glider,3.75,4.0,3.25,2.0,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Off-Road,Parafoil,3.75,4.0,3.75,3.0,3.5,3.0
+"Bowser, Morton",Landship,Leaf Tires,Parafoil,3.75,4.0,3.5,2.0,3.0,4.0
+"Donkey Kong, Roy, Waluigi",Landship,Standard,Cloud Glider,3.75,4.0,3.25,2.5,3.75,3.75
+"Wario, Dry Bowser",Streetle,Button,Cloud Glider,3.75,4.0,3.0,2.25,2.5,4.25
+"Donkey Kong, Roy, Waluigi",Landship,Standard,Parafoil,3.75,4.0,3.5,2.5,3.5,3.75
+"Wario, Dry Bowser",Streetle,Button,Parafoil,3.75,4.0,3.25,2.25,2.25,4.25
+"Donkey Kong, Roy, Waluigi",Landship,Button,Wario Wing,3.75,4.0,3.25,2.5,3.0,4.0
+"Bowser, Morton",Mercedes Silver Arrow,Roller,Cloud Glider,3.75,4.0,3.5,3.0,3.25,4.0
+"Bowser, Morton",Pipe Frame,Button,Parafoil,3.75,4.0,3.75,3.0,2.5,4.0
+"Donkey Kong, Roy, Waluigi",Landship,Leaf Tires,Super Glider,3.75,4.0,3.0,2.5,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Standard,Super Glider,3.75,4.0,3.5,3.5,3.5,3.25
+"Donkey Kong, Roy, Waluigi",Landship,Leaf Tires,Wario Wing,3.75,4.0,3.25,2.5,3.0,4.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Leaf Tires,Parafoil,3.75,4.0,3.5,3.25,2.25,4.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Leaf Tires,Cloud Glider,3.75,4.0,3.25,3.25,2.5,4.0
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Button,Wario Wing,3.75,4.0,3.5,3.5,2.5,4.0
+"Bowser, Morton",Landship,Roller,Super Glider,3.75,4.0,3.5,2.25,3.5,4.0
+"Bowser, Morton",Pipe Frame,Leaf Tires,Parafoil,3.75,4.0,3.75,3.0,2.5,4.0
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Leaf Tires,Super Glider,3.75,4.0,3.25,3.5,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Leaf Tires,Wario Wing,3.75,4.0,3.5,3.5,2.5,4.0
+"Bowser, Morton",Landship,Roller,Wario Wing,3.75,4.0,3.75,2.25,3.25,4.0
+"Bowser, Morton",Pipe Frame,Leaf Tires,Cloud Glider,3.75,4.0,3.5,3.0,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Roller,Super Glider,3.75,4.0,3.5,3.5,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Roller,Wario Wing,3.75,4.0,3.75,3.5,2.5,4.0
+"Bowser, Morton",Landship,Button,Cloud Glider,3.75,4.0,3.25,2.0,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Button,Cloud Glider,3.75,4.0,3.25,3.25,2.5,4.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Button,Parafoil,3.75,4.0,3.5,3.25,2.25,4.0
+"Bowser, Morton",Landship,Button,Parafoil,3.75,4.0,3.5,2.0,3.0,4.0
+"Wario, Dry Bowser",Streetle,Roller,Super Glider,3.75,4.0,3.25,2.5,2.75,4.25
+"Bowser, Morton",Cat Cruiser,Roller,Cloud Glider,3.75,4.0,3.75,3.0,2.75,4.0
+"Wario, Dry Bowser",Streetle,Roller,Wario Wing,3.75,4.0,3.5,2.5,2.5,4.25
+"Bowser, Morton",Pipe Frame,Button,Cloud Glider,3.75,4.0,3.5,3.0,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Landship,Button,Super Glider,3.75,4.0,3.0,2.5,3.25,4.0
+"Bowser, Morton",Cat Cruiser,Roller,Parafoil,3.75,4.0,4.0,3.0,2.5,4.0
+"Bowser, Morton",Pipe Frame,Roller,Super Glider,3.75,4.0,3.75,3.25,3.0,4.0
+"Wario, Dry Bowser",Streetle,Leaf Tires,Parafoil,3.75,4.0,3.25,2.25,2.25,4.25
+"Wario, Dry Bowser",Mercedes Silver Arrow,Roller,Cloud Glider,3.75,4.0,3.25,3.25,3.5,4.0
+"Bowser, Morton",Pipe Frame,Roller,Wario Wing,3.75,4.0,4.0,3.25,2.75,4.0
+"Bowser, Morton",Mr. Scooty,Leaf Tires,Super Glider,3.75,4.0,3.5,3.0,2.75,4.0
+"Bowser, Morton",Mr. Scooty,Button,Wario Wing,3.75,4.0,3.75,3.0,2.5,4.0
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Leaf Tires,Parafoil,3.75,4.0,3.25,3.25,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Leaf Tires,Cloud Glider,3.75,4.0,3.0,3.25,3.0,4.0
+"Wario, Dry Bowser",Streetle,Leaf Tires,Cloud Glider,3.75,4.0,3.0,2.25,2.5,4.25
+"Bowser, Morton",Mr. Scooty,Button,Super Glider,3.75,4.0,3.5,3.0,2.75,4.0
+"Bowser, Morton",Mr. Scooty,Leaf Tires,Wario Wing,3.75,4.0,3.75,3.0,2.5,4.0
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Button,Parafoil,3.75,4.0,3.25,3.25,2.75,4.0
+"Wario, Dry Bowser",Mercedes Silver Arrow,Roller,Parafoil,3.75,4.0,3.5,3.25,3.25,4.0
+"Wario, Dry Bowser",Mr. Scooty,Standard,Cloud Glider,3.75,4.0,3.5,3.25,3.5,3.75
+"Wario, Dry Bowser",Landship,Leaf Tires,Parafoil,3.75,4.0,3.25,2.25,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Roller,Super Glider,3.75,4.0,3.25,3.5,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Button,Cloud Glider,3.75,4.0,3.0,3.25,3.0,4.0
+"Donkey Kong, Roy, Waluigi",Streetle,Standard,Cloud Glider,3.75,4.0,3.25,2.5,2.75,4.0
+"Bowser, Morton",Mercedes Silver Arrow,Roller,Parafoil,3.75,4.0,3.75,3.0,3.0,4.0
+"Wario, Dry Bowser",Cat Cruiser,Roller,Parafoil,3.75,4.0,3.75,3.25,2.75,4.0
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Roller,Wario Wing,3.75,4.0,3.5,3.5,3.0,4.0
+"Bowser, Morton",Mercedes Silver Arrow,Button,Parafoil,4.0,3.75,3.75,2.75,2.75,3.75
+"Wario, Dry Bowser",Cat Cruiser,Button,Cloud Glider,4.0,3.75,3.5,3.0,2.75,3.75
+"Bowser, Morton",Landship,Button,Wario Wing,4.0,3.75,3.75,2.0,3.0,3.75
+"Wario, Dry Bowser",Mr. Scooty,Off-Road,Cloud Glider,4.0,3.75,3.75,2.75,3.75,3.25
+"Wario, Dry Bowser",Mercedes Silver Arrow,Roller,Super Glider,4.0,3.75,3.5,3.25,3.5,3.75
+"Bowser, Morton",Landship,Standard,Parafoil,4.0,3.75,4.0,2.0,3.5,3.5
+"Wario, Dry Bowser",Cat Cruiser,Button,Parafoil,4.0,3.75,3.75,3.0,2.5,3.75
+"Wario, Dry Bowser",Cat Cruiser,Leaf Tires,Cloud Glider,4.0,3.75,3.5,3.0,2.75,3.75
+"Wario, Dry Bowser",Mr. Scooty,Off-Road,Parafoil,4.0,3.75,4.0,2.75,3.5,3.25
+"Wario, Dry Bowser",Mr. Scooty,Standard,Wario Wing,4.0,3.75,4.0,3.25,3.25,3.5
+"Wario, Dry Bowser",Mercedes Silver Arrow,Roller,Wario Wing,4.0,3.75,3.75,3.25,3.25,3.75
+"Bowser, Morton",Landship,Button,Super Glider,4.0,3.75,3.5,2.0,3.25,3.75
+"Wario, Dry Bowser",Landship,Leaf Tires,Super Glider,4.0,3.75,3.25,2.25,3.5,3.75
+"Wario, Dry Bowser",Cat Cruiser,Leaf Tires,Parafoil,4.0,3.75,3.75,3.0,2.5,3.75
+"Wario, Dry Bowser",Mr. Scooty,Standard,Super Glider,4.0,3.75,3.75,3.25,3.5,3.5
+"Wario, Dry Bowser",Landship,Standard,Cloud Glider,4.0,3.75,3.5,2.25,4.0,3.5
+"Bowser, Morton",Mercedes Silver Arrow,Leaf Tires,Cloud Glider,4.0,3.75,3.5,2.75,3.0,3.75
+"Bowser, Morton",Landship,Standard,Cloud Glider,4.0,3.75,3.75,2.0,3.75,3.5
+"Wario, Dry Bowser",Mercedes Silver Arrow,Leaf Tires,Parafoil,4.0,3.75,3.5,3.0,3.0,3.75
+"Wario, Dry Bowser",Biddybuggy,Off-Road,Parafoil,4.0,3.75,4.0,2.75,3.75,2.75
+"Bowser, Morton",Mercedes Silver Arrow,Roller,Wario Wing,4.0,3.75,4.0,3.0,3.0,3.75
+"Wario, Dry Bowser",Biddybuggy,Off-Road,Cloud Glider,4.0,3.75,3.75,2.75,4.0,2.75
+"Bowser, Morton",Mercedes Silver Arrow,Roller,Super Glider,4.0,3.75,3.75,3.0,3.25,3.75
+"Wario, Dry Bowser",Landship,Standard,Parafoil,4.0,3.75,3.75,2.25,3.75,3.5
+"Wario, Dry Bowser",Landship,Leaf Tires,Wario Wing,4.0,3.75,3.5,2.25,3.25,3.75
+"Wario, Dry Bowser",Streetle,Leaf Tires,Super Glider,4.0,3.75,3.25,2.25,2.5,4.0
+"Wario, Dry Bowser",Streetle,Button,Wario Wing,4.0,3.75,3.5,2.25,2.25,4.0
+"Bowser, Morton",Mercedes Silver Arrow,Leaf Tires,Parafoil,4.0,3.75,3.75,2.75,2.75,3.75
+"Bowser, Morton",Mercedes Silver Arrow,Button,Cloud Glider,4.0,3.75,3.5,2.75,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Standard Kart,Roller,Super Glider,4.0,3.75,3.5,3.25,2.75,3.75
+"Bowser, Morton",Landship,Leaf Tires,Wario Wing,4.0,3.75,3.75,2.0,3.0,3.75
+"Wario, Dry Bowser",Mercedes Silver Arrow,Button,Parafoil,4.0,3.75,3.5,3.0,3.0,3.75
+"Bowser, Morton",Landship,Leaf Tires,Super Glider,4.0,3.75,3.5,2.0,3.25,3.75
+"Wario, Dry Bowser",Streetle,Leaf Tires,Wario Wing,4.0,3.75,3.5,2.25,2.25,4.0
+"Wario, Dry Bowser",Landship,Button,Super Glider,4.0,3.75,3.25,2.25,3.5,3.75
+"Wario, Dry Bowser",Mercedes Silver Arrow,Button,Cloud Glider,4.0,3.75,3.25,3.0,3.25,3.75
+"Wario, Dry Bowser",Mercedes Silver Arrow,Leaf Tires,Cloud Glider,4.0,3.75,3.25,3.0,3.25,3.75
+"Wario, Dry Bowser",Biddybuggy,Standard,Wario Wing,4.0,3.75,4.0,3.25,3.5,3.0
+"Wario, Dry Bowser",Biddybuggy,Standard,Super Glider,4.0,3.75,3.75,3.25,3.75,3.0
+"Wario, Dry Bowser",Streetle,Button,Super Glider,4.0,3.75,3.25,2.25,2.5,4.0
+"Wario, Dry Bowser",Landship,Button,Wario Wing,4.0,3.75,3.5,2.25,3.25,3.75
+"Wario, Dry Bowser",Streetle,Standard,Cloud Glider,4.0,3.75,3.5,2.25,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Off-Road,Super Glider,4.0,3.75,3.75,3.0,3.5,3.25
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Standard,Super Glider,4.0,3.75,3.75,3.5,3.25,3.5
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Off-Road,Wario Wing,4.0,3.75,4.0,3.0,3.5,2.75
+"Donkey Kong, Roy, Waluigi",Streetle,Standard,Super Glider,4.0,3.75,3.5,2.5,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Streetle,Standard,Wario Wing,4.0,3.75,3.75,2.5,2.5,3.75
+"Donkey Kong, Roy, Waluigi",Biddybuggy,Off-Road,Super Glider,4.0,3.75,3.75,3.0,3.75,2.75
+"Bowser, Morton",Cat Cruiser,Button,Cloud Glider,4.0,3.75,3.75,2.75,2.5,3.75
+"Wario, Dry Bowser",Cat Cruiser,Roller,Wario Wing,4.0,3.75,4.0,3.25,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Streetle,Off-Road,Cloud Glider,4.0,3.75,3.5,2.0,3.0,3.5
+"Bowser, Morton",Cat Cruiser,Button,Parafoil,4.0,3.75,4.0,2.75,2.25,3.75
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Standard,Wario Wing,4.0,3.75,4.0,3.5,3.0,3.5
+"Donkey Kong, Roy, Waluigi",Streetle,Off-Road,Parafoil,4.0,3.75,3.75,2.0,2.75,3.5
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Leaf Tires,Wario Wing,4.0,3.75,3.75,3.25,2.25,3.75
+"Donkey Kong, Roy, Waluigi",Standard Kart,Button,Parafoil,4.0,3.75,3.5,3.0,2.25,3.75
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Leaf Tires,Super Glider,4.0,3.75,3.5,3.25,2.5,3.75
+"Donkey Kong, Roy, Waluigi",Standard Kart,Button,Cloud Glider,4.0,3.75,3.25,3.0,2.5,3.75
+"Donkey Kong, Roy, Waluigi",Standard Kart,Leaf Tires,Parafoil,4.0,3.75,3.5,3.0,2.25,3.75
+"Bowser, Morton",Pipe Frame,Standard,Cloud Glider,4.0,3.75,4.0,3.0,3.25,3.5
+"Donkey Kong, Roy, Waluigi",Landship,Standard,Super Glider,4.0,3.75,3.5,2.5,3.75,3.5
+"Bowser, Morton",Pipe Frame,Standard,Parafoil,4.0,3.75,4.25,3.0,3.0,3.5
+"Bowser, Morton",Cat Cruiser,Roller,Wario Wing,4.0,3.75,4.25,3.0,2.5,3.75
+"Donkey Kong, Roy, Waluigi",Landship,Off-Road,Cloud Glider,4.0,3.75,3.5,2.0,4.0,3.25
+"Donkey Kong, Roy, Waluigi",Landship,Off-Road,Parafoil,4.0,3.75,3.75,2.0,3.75,3.25
+"Bowser, Morton",Pipe Frame,Button,Wario Wing,4.0,3.75,4.0,3.0,2.5,3.75
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Standard,Cloud Glider,4.0,3.75,3.5,3.25,3.5,3.5
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Standard,Parafoil,4.0,3.75,3.75,3.25,3.25,3.5
+"Donkey Kong, Roy, Waluigi",Landship,Standard,Wario Wing,4.0,3.75,3.75,2.5,3.5,3.5
+"Bowser, Morton",Standard Kart,Roller,Parafoil,4.0,3.75,4.0,2.75,2.5,3.75
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Button,Super Glider,4.0,3.75,3.25,3.25,3.0,3.75
+"Bowser, Morton",Pipe Frame,Button,Super Glider,4.0,3.75,3.75,3.0,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Leaf Tires,Super Glider,4.0,3.75,3.25,3.25,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Leaf Tires,Wario Wing,4.0,3.75,3.5,3.25,2.75,3.75
+"Bowser, Morton",Mr. Scooty,Off-Road,Parafoil,4.0,3.75,4.25,2.5,3.25,3.25
+"Bowser, Morton",Mr. Scooty,Off-Road,Cloud Glider,4.0,3.75,4.0,2.5,3.5,3.25
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Roller,Cloud Glider,4.0,3.75,2.75,3.0,3.25,4.0
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Roller,Parafoil,4.0,3.75,3.0,3.0,3.0,4.0
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Button,Wario Wing,4.0,3.75,3.5,3.25,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Mr. Scooty,Off-Road,Wario Wing,4.0,3.75,4.0,3.0,3.25,3.25
+"Donkey Kong, Roy, Waluigi",Standard Kart,Leaf Tires,Cloud Glider,4.0,3.75,3.25,3.0,2.5,3.75
+"Bowser, Morton",Streetle,Button,Super Glider,4.0,3.75,3.5,2.0,2.25,4.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Button,Super Glider,4.0,3.75,3.5,3.25,2.5,3.75
+"Bowser, Morton",Streetle,Standard,Parafoil,4.0,3.75,4.0,2.0,2.5,3.75
+"Bowser, Morton",Streetle,Standard,Cloud Glider,4.0,3.75,3.75,2.0,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Standard,Parafoil,4.0,3.75,4.0,3.25,2.75,3.5
+"Wario, Dry Bowser",Pipe Frame,Standard,Cloud Glider,4.0,3.75,3.75,3.25,3.5,3.5
+"Bowser, Morton",Biddybuggy,Off-Road,Cloud Glider,4.0,3.75,4.0,2.5,3.75,2.75
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Standard,Cloud Glider,4.0,3.75,3.75,3.25,3.0,3.5
+"Wario, Dry Bowser",Pipe Frame,Standard,Parafoil,4.0,3.75,4.0,3.25,3.25,3.5
+"Wario, Dry Bowser",Pipe Frame,Button,Super Glider,4.0,3.75,3.5,3.25,3.0,3.75
+"Wario, Dry Bowser",Pipe Frame,Button,Wario Wing,4.0,3.75,3.75,3.25,2.75,3.75
+"Bowser, Morton",Pipe Frame,Leaf Tires,Wario Wing,4.0,3.75,4.0,3.0,2.5,3.75
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Off-Road,Parafoil,4.0,3.75,4.0,3.0,3.25,3.25
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Off-Road,Cloud Glider,4.0,3.75,3.75,3.0,3.5,3.25
+"Bowser, Morton",Biddybuggy,Off-Road,Parafoil,4.0,3.75,4.25,2.5,3.5,2.75
+"Bowser, Morton",Cat Cruiser,Roller,Super Glider,4.0,3.75,4.0,3.0,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Standard Kart,Roller,Wario Wing,4.0,3.75,3.75,3.25,2.5,3.75
+"Wario, Dry Bowser",Pipe Frame,Leaf Tires,Super Glider,4.0,3.75,3.5,3.25,3.0,3.75
+"Wario, Dry Bowser",Standard Kart,Roller,Parafoil,4.0,3.75,3.75,3.0,2.75,3.75
+"Bowser, Morton",Streetle,Button,Wario Wing,4.0,3.75,3.75,2.0,2.0,4.0
+"Bowser, Morton",Mr. Scooty,Standard,Wario Wing,4.0,3.75,4.25,3.0,3.0,3.5
+"Wario, Dry Bowser",Cat Cruiser,Roller,Super Glider,4.0,3.75,3.75,3.25,3.0,3.75
+"Bowser, Morton",Pipe Frame,Leaf Tires,Super Glider,4.0,3.75,3.75,3.0,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Roller,Cloud Glider,4.0,3.75,2.75,3.0,2.75,3.75
+"Bowser, Morton",Standard Kart,Roller,Cloud Glider,4.0,3.75,3.75,2.75,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Roller,Parafoil,4.0,3.75,3.0,3.0,2.5,3.75
+"Bowser, Morton",Mr. Scooty,Standard,Super Glider,4.0,3.75,4.0,3.0,3.25,3.5
+"Wario, Dry Bowser",Streetle,Standard,Parafoil,4.0,3.75,3.75,2.25,2.75,3.75
+"Bowser, Morton",Cat Cruiser,Leaf Tires,Cloud Glider,4.0,3.75,3.75,2.75,2.5,3.75
+"Bowser, Morton",Streetle,Leaf Tires,Wario Wing,4.0,3.75,3.75,2.0,2.0,4.0
+"Bowser, Morton",Streetle,Leaf Tires,Super Glider,4.0,3.75,3.5,2.0,2.25,4.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Button,Wario Wing,4.0,3.75,3.75,3.25,2.25,3.75
+"Bowser, Morton",Cat Cruiser,Leaf Tires,Parafoil,4.0,3.75,4.0,2.75,2.25,3.75
+"Bowser, Morton",Biddybuggy,Standard,Super Glider,4.0,3.75,4.0,3.0,3.5,3.0
+"Bowser, Morton",Biddybuggy,Standard,Wario Wing,4.0,3.75,4.25,3.0,3.25,3.0
+"Wario, Dry Bowser",Standard Kart,Roller,Cloud Glider,4.0,3.75,3.5,3.0,3.0,3.75
+"Wario, Dry Bowser",Pipe Frame,Leaf Tires,Wario Wing,4.0,3.75,3.75,3.25,2.75,3.75
+"Bowser, Morton",Pipe Frame,Off-Road,Cloud Glider,4.25,3.5,4.25,2.5,3.5,3.0
+"Bowser, Morton",Pipe Frame,Off-Road,Parafoil,4.25,3.5,4.5,2.5,3.25,3.0
+"Bowser, Morton",Landship,Standard,Super Glider,4.25,3.5,4.0,2.0,3.75,3.25
+"Bowser, Morton",Cat Cruiser,Button,Wario Wing,4.25,3.5,4.25,2.75,2.25,3.5
+"Wario, Dry Bowser",Streetle,Off-Road,Cloud Glider,4.25,3.5,3.75,1.75,3.25,3.25
+"Wario, Dry Bowser",Splat Buggy,Roller,Cloud Glider,4.25,3.5,3.0,2.75,3.0,3.5
+"Wario, Dry Bowser",Splat Buggy,Roller,Parafoil,4.25,3.5,3.25,2.75,2.75,3.5
+"Bowser, Morton",Biddybuggy,Off-Road,Wario Wing,4.25,3.5,4.5,2.5,3.5,2.5
+"Wario, Dry Bowser",Mr. Scooty,Off-Road,Wario Wing,4.25,3.5,4.25,2.75,3.5,3.0
+"Wario, Dry Bowser",Mr. Scooty,Off-Road,Super Glider,4.25,3.5,4.0,2.75,3.75,3.0
+"Bowser, Morton",Biddybuggy,Off-Road,Super Glider,4.25,3.5,4.25,2.5,3.75,2.5
+"Donkey Kong, Roy, Waluigi",Standard Kart,Standard,Cloud Glider,4.25,3.5,3.75,3.0,3.0,3.25
+"Bowser, Morton",Cat Cruiser,Leaf Tires,Wario Wing,4.25,3.5,4.25,2.75,2.25,3.5
+"Bowser, Morton",Standard Kart,Roller,Wario Wing,4.25,3.5,4.25,2.75,2.5,3.5
+"Bowser, Morton",Cat Cruiser,Leaf Tires,Super Glider,4.25,3.5,4.0,2.75,2.5,3.5
+"Bowser, Morton",Standard Kart,Button,Cloud Glider,4.25,3.5,3.75,2.5,2.5,3.5
+"Bowser, Morton",Standard Kart,Button,Parafoil,4.25,3.5,4.0,2.5,2.25,3.5
+"Donkey Kong, Roy, Waluigi",Standard Kart,Standard,Parafoil,4.25,3.5,4.0,3.0,2.75,3.25
+"Bowser, Morton",Cat Cruiser,Button,Super Glider,4.25,3.5,4.0,2.75,2.5,3.5
+"Bowser, Morton",Standard Kart,Leaf Tires,Cloud Glider,4.25,3.5,3.75,2.5,2.5,3.5
+"Bowser, Morton",Standard Kart,Leaf Tires,Parafoil,4.25,3.5,4.0,2.5,2.25,3.5
+"Bowser, Morton",Pipe Frame,Standard,Super Glider,4.25,3.5,4.25,3.0,3.25,3.25
+"Bowser, Morton",Pipe Frame,Standard,Wario Wing,4.25,3.5,4.5,3.0,3.0,3.25
+"Wario, Dry Bowser",Streetle,Off-Road,Parafoil,4.25,3.5,4.0,1.75,3.0,3.25
+"Bowser, Morton",Landship,Standard,Wario Wing,4.25,3.5,4.25,2.0,3.5,3.25
+"Bowser, Morton",Standard Kart,Roller,Super Glider,4.25,3.5,4.0,2.75,2.75,3.5
+"Wario, Dry Bowser",Cat Cruiser,Standard,Cloud Glider,4.25,3.5,4.0,3.0,3.25,3.25
+"Wario, Dry Bowser",Streetle,Standard,Super Glider,4.25,3.5,3.75,2.25,3.0,3.5
+"Donkey Kong, Roy, Waluigi",Streetle,Off-Road,Super Glider,4.25,3.5,3.75,2.0,3.0,3.25
+"Donkey Kong, Roy, Waluigi",Streetle,Off-Road,Wario Wing,4.25,3.5,4.0,2.0,2.75,3.25
+"Donkey Kong, Roy, Waluigi",Standard Kart,Button,Wario Wing,4.25,3.5,3.75,3.0,2.25,3.5
+"Donkey Kong, Roy, Waluigi",Standard Kart,Button,Super Glider,4.25,3.5,3.5,3.0,2.5,3.5
+"Bowser, Morton",Cat Cruiser,Standard,Cloud Glider,4.25,3.5,4.25,2.75,3.0,3.25
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Roller,Super Glider,4.25,3.5,3.0,3.0,2.75,3.5
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Roller,Wario Wing,4.25,3.5,3.25,3.0,2.5,3.5
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Button,Cloud Glider,4.25,3.5,2.75,2.75,2.5,3.5
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Button,Parafoil,4.25,3.5,3.0,2.75,2.25,3.5
+"Bowser, Morton",Streetle,Off-Road,Parafoil,4.25,3.5,4.25,1.5,2.75,3.25
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Leaf Tires,Cloud Glider,4.25,3.5,2.75,2.75,2.5,3.5
+"Bowser, Morton",Streetle,Off-Road,Cloud Glider,4.25,3.5,4.0,1.5,3.0,3.25
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Leaf Tires,Parafoil,4.25,3.5,3.0,2.75,2.25,3.5
+"Wario, Dry Bowser",Standard Kart,Roller,Super Glider,4.25,3.5,3.75,3.0,3.0,3.5
+"Wario, Dry Bowser",Standard Kart,Roller,Wario Wing,4.25,3.5,4.0,3.0,2.75,3.5
+"Wario, Dry Bowser",Standard Kart,Button,Cloud Glider,4.25,3.5,3.5,2.75,2.75,3.5
+"Wario, Dry Bowser",Standard Kart,Button,Parafoil,4.25,3.5,3.75,2.75,2.5,3.5
+"Wario, Dry Bowser",Streetle,Standard,Wario Wing,4.25,3.5,4.0,2.25,2.75,3.5
+"Wario, Dry Bowser",Standard Kart,Leaf Tires,Cloud Glider,4.25,3.5,3.5,2.75,2.75,3.5
+"Bowser, Morton",Splat Buggy,Roller,Parafoil,4.25,3.5,3.5,2.5,2.5,3.5
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Leaf Tires,Parafoil,4.25,3.5,3.0,2.75,2.75,3.75
+"Bowser, Morton",Splat Buggy,Roller,Cloud Glider,4.25,3.5,3.25,2.5,2.75,3.5
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Leaf Tires,Cloud Glider,4.25,3.5,2.75,2.75,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Off-Road,Super Glider,4.25,3.5,4.0,3.0,3.5,3.0
+"Donkey Kong, Roy, Waluigi",Pipe Frame,Off-Road,Wario Wing,4.25,3.5,4.25,3.0,3.25,3.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Standard,Super Glider,4.25,3.5,4.0,3.25,3.0,3.25
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Standard,Wario Wing,4.25,3.5,4.25,3.25,2.75,3.25
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Off-Road,Cloud Glider,4.25,3.5,4.0,2.75,3.25,3.0
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Off-Road,Parafoil,4.25,3.5,4.25,2.75,3.0,3.0
+"Donkey Kong, Roy, Waluigi",Standard Kart,Leaf Tires,Wario Wing,4.25,3.5,3.75,3.0,2.25,3.5
+"Donkey Kong, Roy, Waluigi",Landship,Off-Road,Super Glider,4.25,3.5,3.75,2.0,4.0,3.0
+"Donkey Kong, Roy, Waluigi",Landship,Off-Road,Wario Wing,4.25,3.5,4.0,2.0,3.75,3.0
+"Wario, Dry Bowser",Standard Kart,Leaf Tires,Parafoil,4.25,3.5,3.75,2.75,2.5,3.5
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Standard,Super Glider,4.25,3.5,3.75,3.25,3.5,3.25
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Off-Road,Cloud Glider,4.25,3.5,3.75,2.75,3.75,3.0
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Off-Road,Parafoil,4.25,3.5,4.0,2.75,3.5,3.0
+"Bowser, Morton",Mr. Scooty,Off-Road,Wario Wing,4.25,3.5,4.5,2.5,3.25,3.0
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Roller,Super Glider,4.25,3.5,3.0,3.0,3.25,3.75
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Roller,Wario Wing,4.25,3.5,3.25,3.0,3.0,3.75
+"Bowser, Morton",Mr. Scooty,Off-Road,Super Glider,4.25,3.5,4.25,2.5,3.5,3.0
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Button,Cloud Glider,4.25,3.5,2.75,2.75,3.0,3.75
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Button,Parafoil,4.25,3.5,3.0,2.75,2.75,3.75
+"Donkey Kong, Roy, Waluigi",Standard Kart,Leaf Tires,Super Glider,4.25,3.5,3.5,3.0,2.5,3.5
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Standard,Wario Wing,4.25,3.5,4.0,3.25,3.25,3.25
+"Wario, Dry Bowser",Pipe Frame,Standard,Super Glider,4.25,3.5,4.0,3.25,3.5,3.25
+"Bowser, Morton",Streetle,Standard,Wario Wing,4.25,3.5,4.25,2.0,2.5,3.5
+"Bowser, Morton",Streetle,Standard,Super Glider,4.25,3.5,4.0,2.0,2.75,3.5
+"Wario, Dry Bowser",Pipe Frame,Standard,Wario Wing,4.25,3.5,4.25,3.25,3.25,3.25
+"Bowser, Morton",Mercedes Silver Arrow,Leaf Tires,Super Glider,4.25,3.5,3.75,2.75,3.0,3.5
+"Wario, Dry Bowser",Landship,Off-Road,Cloud Glider,4.25,3.5,3.75,1.75,4.25,3.0
+"Wario, Dry Bowser",Landship,Off-Road,Parafoil,4.25,3.5,4.0,1.75,4.0,3.0
+"Wario, Dry Bowser",Mercedes Silver Arrow,Standard,Cloud Glider,4.25,3.5,3.75,3.0,3.75,3.25
+"Wario, Dry Bowser",Mercedes Silver Arrow,Standard,Parafoil,4.25,3.5,4.0,3.0,3.5,3.25
+"Wario, Dry Bowser",Mercedes Silver Arrow,Button,Super Glider,4.25,3.5,3.5,3.0,3.25,3.5
+"Wario, Dry Bowser",Mercedes Silver Arrow,Button,Wario Wing,4.25,3.5,3.75,3.0,3.0,3.5
+"Wario, Dry Bowser",Landship,Standard,Wario Wing,4.25,3.5,4.0,2.25,3.75,3.25
+"Bowser, Morton",Mercedes Silver Arrow,Button,Wario Wing,4.25,3.5,4.0,2.75,2.75,3.5
+"Wario, Dry Bowser",Mercedes Silver Arrow,Leaf Tires,Super Glider,4.25,3.5,3.5,3.0,3.25,3.5
+"Wario, Dry Bowser",Mercedes Silver Arrow,Leaf Tires,Wario Wing,4.25,3.5,3.75,3.0,3.0,3.5
+"Bowser, Morton",Mercedes Silver Arrow,Standard,Parafoil,4.25,3.5,4.25,2.75,3.25,3.25
+"Wario, Dry Bowser",Blue Falcon,Roller,Cloud Glider,4.25,3.5,3.0,2.75,3.5,3.75
+"Bowser, Morton",Mercedes Silver Arrow,Standard,Cloud Glider,4.25,3.5,4.0,2.75,3.5,3.25
+"Wario, Dry Bowser",Blue Falcon,Roller,Parafoil,4.25,3.5,3.25,2.75,3.25,3.75
+"Bowser, Morton",Landship,Off-Road,Parafoil,4.25,3.5,4.25,1.5,3.75,3.0
+"Bowser, Morton",Landship,Off-Road,Cloud Glider,4.25,3.5,4.0,1.5,4.0,3.0
+"Bowser, Morton",Mercedes Silver Arrow,Button,Super Glider,4.25,3.5,3.75,2.75,3.0,3.5
+"Wario, Dry Bowser",Landship,Standard,Super Glider,4.25,3.5,3.75,2.25,4.0,3.25
+"Bowser, Morton",Cat Cruiser,Standard,Parafoil,4.25,3.5,4.5,2.75,2.75,3.25
+"Wario, Dry Bowser",Cat Cruiser,Button,Wario Wing,4.25,3.5,4.0,3.0,2.5,3.5
+"Wario, Dry Bowser",Biddybuggy,Off-Road,Wario Wing,4.25,3.5,4.25,2.75,3.75,2.5
+"Bowser, Morton",Blue Falcon,Roller,Parafoil,4.25,3.5,3.5,2.5,3.0,3.75
+"Wario, Dry Bowser",Pipe Frame,Off-Road,Parafoil,4.25,3.5,4.25,2.75,3.5,3.0
+"Bowser, Morton",Blue Falcon,Roller,Cloud Glider,4.25,3.5,3.25,2.5,3.25,3.75
+"Wario, Dry Bowser",Cat Cruiser,Button,Super Glider,4.25,3.5,3.75,3.0,2.75,3.5
+"Wario, Dry Bowser",Cat Cruiser,Leaf Tires,Super Glider,4.25,3.5,3.75,3.0,2.75,3.5
+"Wario, Dry Bowser",Cat Cruiser,Standard,Parafoil,4.25,3.5,4.25,3.0,3.0,3.25
+"Bowser, Morton",Mercedes Silver Arrow,Leaf Tires,Wario Wing,4.25,3.5,4.0,2.75,2.75,3.5
+"Wario, Dry Bowser",Biddybuggy,Off-Road,Super Glider,4.25,3.5,4.0,2.75,4.0,2.5
+"Wario, Dry Bowser",Pipe Frame,Off-Road,Cloud Glider,4.25,3.5,4.0,2.75,3.75,3.0
+"Wario, Dry Bowser",Cat Cruiser,Leaf Tires,Wario Wing,4.25,3.5,4.0,3.0,2.5,3.5
+"Bowser, Morton",Blue Falcon,Leaf Tires,Parafoil,4.5,3.25,3.5,2.25,2.75,3.5
+"Bowser, Morton",Landship,Off-Road,Wario Wing,4.5,3.25,4.5,1.5,3.75,2.75
+"Bowser, Morton",Mercedes Silver Arrow,Standard,Super Glider,4.5,3.25,4.25,2.75,3.5,3.0
+"Bowser, Morton",Blue Falcon,Leaf Tires,Cloud Glider,4.5,3.25,3.25,2.25,3.0,3.5
+"Bowser, Morton",Blue Falcon,Button,Parafoil,4.5,3.25,3.5,2.25,2.75,3.5
+"Bowser, Morton",Landship,Off-Road,Super Glider,4.5,3.25,4.25,1.5,4.0,2.75
+"Bowser, Morton",Mercedes Silver Arrow,Standard,Wario Wing,4.5,3.25,4.5,2.75,3.25,3.0
+"Bowser, Morton",Splat Buggy,Roller,Super Glider,4.5,3.25,3.5,2.5,2.75,3.25
+"Bowser, Morton",Cat Cruiser,Off-Road,Parafoil,4.5,3.25,4.75,2.25,3.0,2.75
+"Bowser, Morton",Streetle,Off-Road,Super Glider,4.5,3.25,4.25,1.5,3.0,3.0
+"Bowser, Morton",Blue Falcon,Button,Cloud Glider,4.5,3.25,3.25,2.25,3.0,3.5
+"Bowser, Morton",Streetle,Off-Road,Wario Wing,4.5,3.25,4.5,1.5,2.75,3.0
+"Bowser, Morton",Blue Falcon,Roller,Wario Wing,4.5,3.25,3.75,2.5,3.0,3.5
+"Bowser, Morton",Mercedes Silver Arrow,Off-Road,Cloud Glider,4.5,3.25,4.25,2.25,3.75,2.75
+"Bowser, Morton",Mercedes Silver Arrow,Off-Road,Parafoil,4.5,3.25,4.5,2.25,3.5,2.75
+"Bowser, Morton",Splat Buggy,Roller,Wario Wing,4.5,3.25,3.75,2.5,2.5,3.25
+"Bowser, Morton",Blue Falcon,Roller,Super Glider,4.5,3.25,3.5,2.5,3.25,3.5
+"Bowser, Morton",Cat Cruiser,Off-Road,Cloud Glider,4.5,3.25,4.5,2.25,3.25,2.75
+"Bowser, Morton",Splat Buggy,Button,Cloud Glider,4.5,3.25,3.25,2.25,2.5,3.25
+"Bowser, Morton",Splat Buggy,Leaf Tires,Cloud Glider,4.5,3.25,3.25,2.25,2.5,3.25
+"Bowser, Morton",Splat Buggy,Button,Parafoil,4.5,3.25,3.5,2.25,2.25,3.25
+"Wario, Dry Bowser",Cat Cruiser,Off-Road,Parafoil,4.5,3.25,4.5,2.5,3.25,2.75
+"Bowser, Morton",Cat Cruiser,Standard,Super Glider,4.5,3.25,4.5,2.75,3.0,3.0
+"Wario, Dry Bowser",Standard Kart,Button,Wario Wing,4.5,3.25,4.0,2.75,2.5,3.25
+"Wario, Dry Bowser",Standard Kart,Leaf Tires,Super Glider,4.5,3.25,3.75,2.75,2.75,3.25
+"Wario, Dry Bowser",Standard Kart,Leaf Tires,Wario Wing,4.5,3.25,4.0,2.75,2.5,3.25
+"Wario, Dry Bowser",Pipe Frame,Off-Road,Super Glider,4.5,3.25,4.25,2.75,3.75,2.75
+"Wario, Dry Bowser",Pipe Frame,Off-Road,Wario Wing,4.5,3.25,4.5,2.75,3.5,2.75
+"Wario, Dry Bowser",Cat Cruiser,Standard,Super Glider,4.5,3.25,4.25,3.0,3.25,3.0
+"Wario, Dry Bowser",Cat Cruiser,Standard,Wario Wing,4.5,3.25,4.5,3.0,3.0,3.0
+"Wario, Dry Bowser",Cat Cruiser,Off-Road,Cloud Glider,4.5,3.25,4.25,2.5,3.5,2.75
+"Bowser, Morton",Cat Cruiser,Standard,Wario Wing,4.5,3.25,4.75,2.75,2.75,3.0
+"Wario, Dry Bowser",Landship,Off-Road,Super Glider,4.5,3.25,4.0,1.75,4.25,2.75
+"Wario, Dry Bowser",Landship,Off-Road,Wario Wing,4.5,3.25,4.25,1.75,4.0,2.75
+"Wario, Dry Bowser",Mercedes Silver Arrow,Standard,Super Glider,4.5,3.25,4.0,3.0,3.75,3.0
+"Wario, Dry Bowser",Mercedes Silver Arrow,Standard,Wario Wing,4.5,3.25,4.25,3.0,3.5,3.0
+"Wario, Dry Bowser",Mercedes Silver Arrow,Off-Road,Cloud Glider,4.5,3.25,4.0,2.5,4.0,2.75
+"Wario, Dry Bowser",Mercedes Silver Arrow,Off-Road,Parafoil,4.5,3.25,4.25,2.5,3.75,2.75
+"Wario, Dry Bowser",Blue Falcon,Roller,Super Glider,4.5,3.25,3.25,2.75,3.5,3.5
+"Wario, Dry Bowser",Blue Falcon,Roller,Wario Wing,4.5,3.25,3.5,2.75,3.25,3.5
+"Wario, Dry Bowser",Blue Falcon,Button,Cloud Glider,4.5,3.25,3.0,2.5,3.25,3.5
+"Wario, Dry Bowser",Blue Falcon,Button,Parafoil,4.5,3.25,3.25,2.5,3.0,3.5
+"Wario, Dry Bowser",Standard Kart,Button,Super Glider,4.5,3.25,3.75,2.75,2.75,3.25
+"Wario, Dry Bowser",Blue Falcon,Leaf Tires,Cloud Glider,4.5,3.25,3.0,2.5,3.25,3.5
+"Wario, Dry Bowser",Standard Kart,Standard,Parafoil,4.5,3.25,4.25,2.75,3.0,3.0
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Leaf Tires,Wario Wing,4.5,3.25,3.25,2.75,2.25,3.25
+"Donkey Kong, Roy, Waluigi",Standard Kart,Standard,Super Glider,4.5,3.25,4.0,3.0,3.0,3.0
+"Donkey Kong, Roy, Waluigi",Standard Kart,Standard,Wario Wing,4.5,3.25,4.25,3.0,2.75,3.0
+"Donkey Kong, Roy, Waluigi",Standard Kart,Off-Road,Cloud Glider,4.5,3.25,4.0,2.5,3.25,2.75
+"Donkey Kong, Roy, Waluigi",Standard Kart,Off-Road,Parafoil,4.5,3.25,4.25,2.5,3.0,2.75
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Off-Road,Super Glider,4.5,3.25,4.25,2.75,3.25,2.75
+"Donkey Kong, Roy, Waluigi",Cat Cruiser,Off-Road,Wario Wing,4.5,3.25,4.5,2.75,3.0,2.75
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Off-Road,Super Glider,4.5,3.25,4.0,2.75,3.75,2.75
+"Donkey Kong, Roy, Waluigi",Mercedes Silver Arrow,Off-Road,Wario Wing,4.5,3.25,4.25,2.75,3.5,2.75
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Standard,Cloud Glider,4.5,3.25,3.25,2.75,3.5,3.25
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Standard,Parafoil,4.5,3.25,3.5,2.75,3.25,3.25
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Button,Super Glider,4.5,3.25,3.0,2.75,3.0,3.5
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Button,Wario Wing,4.5,3.25,3.25,2.75,2.75,3.5
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Leaf Tires,Super Glider,4.5,3.25,3.0,2.75,3.0,3.5
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Leaf Tires,Wario Wing,4.5,3.25,3.25,2.75,2.75,3.5
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Standard,Cloud Glider,4.5,3.25,3.25,2.75,3.0,3.0
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Standard,Parafoil,4.5,3.25,3.5,2.75,2.75,3.0
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Button,Super Glider,4.5,3.25,3.0,2.75,2.5,3.25
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Button,Wario Wing,4.5,3.25,3.25,2.75,2.25,3.25
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Leaf Tires,Super Glider,4.5,3.25,3.0,2.75,2.5,3.25
+"Wario, Dry Bowser",Standard Kart,Standard,Cloud Glider,4.5,3.25,4.0,2.75,3.25,3.0
+"Wario, Dry Bowser",Blue Falcon,Leaf Tires,Parafoil,4.5,3.25,3.25,2.5,3.0,3.5
+"Bowser, Morton",Splat Buggy,Leaf Tires,Parafoil,4.5,3.25,3.5,2.25,2.25,3.25
+"Wario, Dry Bowser",Streetle,Off-Road,Wario Wing,4.5,3.25,4.25,1.75,3.0,3.0
+"Bowser, Morton",Standard Kart,Standard,Parafoil,4.5,3.25,4.5,2.5,2.75,3.0
+"Bowser, Morton",Standard Kart,Leaf Tires,Super Glider,4.5,3.25,4.0,2.5,2.5,3.25
+"Wario, Dry Bowser",Splat Buggy,Button,Cloud Glider,4.5,3.25,3.0,2.5,2.75,3.25
+"Wario, Dry Bowser",Splat Buggy,Roller,Wario Wing,4.5,3.25,3.5,2.75,2.75,3.25
+"Bowser, Morton",Standard Kart,Standard,Cloud Glider,4.5,3.25,4.25,2.5,3.0,3.0
+"Bowser, Morton",Standard Kart,Leaf Tires,Wario Wing,4.5,3.25,4.25,2.5,2.25,3.25
+"Bowser, Morton",Standard Kart,Button,Super Glider,4.5,3.25,4.0,2.5,2.5,3.25
+"Bowser, Morton",Standard Kart,Button,Wario Wing,4.5,3.25,4.25,2.5,2.25,3.25
+"Wario, Dry Bowser",Splat Buggy,Button,Parafoil,4.5,3.25,3.25,2.5,2.5,3.25
+"Wario, Dry Bowser",Splat Buggy,Roller,Super Glider,4.5,3.25,3.25,2.75,3.0,3.25
+"Wario, Dry Bowser",Streetle,Off-Road,Super Glider,4.5,3.25,4.0,1.75,3.25,3.0
+"Wario, Dry Bowser",Splat Buggy,Leaf Tires,Cloud Glider,4.5,3.25,3.0,2.5,2.75,3.25
+"Bowser, Morton",Pipe Frame,Off-Road,Super Glider,4.5,3.25,4.5,2.5,3.5,2.75
+"Wario, Dry Bowser",Splat Buggy,Leaf Tires,Parafoil,4.5,3.25,3.25,2.5,2.5,3.25
+"Bowser, Morton",Pipe Frame,Off-Road,Wario Wing,4.5,3.25,4.75,2.5,3.25,2.75
+"Bowser, Morton",Cat Cruiser,Off-Road,Wario Wing,4.75,3.0,5.0,2.25,3.0,2.5
+"Bowser, Morton",Blue Falcon,Button,Wario Wing,4.75,3.0,3.75,2.25,2.75,3.25
+"Bowser, Morton",Blue Falcon,Leaf Tires,Super Glider,4.75,3.0,3.5,2.25,3.0,3.25
+"Wario, Dry Bowser",Cat Cruiser,Off-Road,Super Glider,4.75,3.0,4.5,2.5,3.5,2.5
+"Bowser, Morton",Blue Falcon,Button,Super Glider,4.75,3.0,3.5,2.25,3.0,3.25
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Standard,Wario Wing,4.75,3.0,3.75,2.75,3.25,3.0
+"Wario, Dry Bowser",Splat Buggy,Button,Wario Wing,4.75,3.0,3.5,2.5,2.5,3.0
+"Bowser, Morton",Blue Falcon,Standard,Parafoil,4.75,3.0,4.0,2.25,3.25,3.0
+"Bowser, Morton",Standard Kart,Standard,Wario Wing,4.75,3.0,4.75,2.5,2.75,2.75
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Off-Road,Cloud Glider,4.75,3.0,3.5,2.25,3.75,2.75
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Off-Road,Parafoil,4.75,3.0,3.75,2.25,3.5,2.75
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Standard,Super Glider,4.75,3.0,3.5,2.75,3.0,2.75
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Standard,Wario Wing,4.75,3.0,3.75,2.75,2.75,2.75
+"Wario, Dry Bowser",Standard Kart,Off-Road,Parafoil,4.75,3.0,4.5,2.25,3.25,2.5
+"Wario, Dry Bowser",Standard Kart,Off-Road,Cloud Glider,4.75,3.0,4.25,2.25,3.5,2.5
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Off-Road,Cloud Glider,4.75,3.0,3.5,2.25,3.25,2.5
+"Wario, Dry Bowser",Splat Buggy,Leaf Tires,Super Glider,4.75,3.0,3.25,2.5,2.75,3.0
+"Wario, Dry Bowser",Splat Buggy,Leaf Tires,Wario Wing,4.75,3.0,3.5,2.5,2.5,3.0
+"Wario, Dry Bowser",Standard Kart,Standard,Wario Wing,4.75,3.0,4.5,2.75,3.0,2.75
+"Wario, Dry Bowser",Standard Kart,Standard,Super Glider,4.75,3.0,4.25,2.75,3.25,2.75
+"Bowser, Morton",Standard Kart,Standard,Super Glider,4.75,3.0,4.5,2.5,3.0,2.75
+"Bowser, Morton",Blue Falcon,Leaf Tires,Wario Wing,4.75,3.0,3.75,2.25,2.75,3.25
+"Wario, Dry Bowser",Cat Cruiser,Off-Road,Wario Wing,4.75,3.0,4.75,2.5,3.25,2.5
+"Wario, Dry Bowser",Splat Buggy,Button,Super Glider,4.75,3.0,3.25,2.5,2.75,3.0
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Standard,Super Glider,4.75,3.0,3.5,2.75,3.5,3.0
+"Wario, Dry Bowser",Blue Falcon,Leaf Tires,Wario Wing,4.75,3.0,3.5,2.5,3.0,3.25
+"Bowser, Morton",Splat Buggy,Leaf Tires,Super Glider,4.75,3.0,3.5,2.25,2.5,3.0
+"Wario, Dry Bowser",Blue Falcon,Leaf Tires,Super Glider,4.75,3.0,3.25,2.5,3.25,3.25
+"Bowser, Morton",Splat Buggy,Button,Wario Wing,4.75,3.0,3.75,2.25,2.25,3.0
+"Wario, Dry Bowser",Blue Falcon,Button,Wario Wing,4.75,3.0,3.5,2.5,3.0,3.25
+"Wario, Dry Bowser",Blue Falcon,Button,Super Glider,4.75,3.0,3.25,2.5,3.25,3.25
+"Donkey Kong, Roy, Waluigi",Standard Kart,Off-Road,Super Glider,4.75,3.0,4.25,2.5,3.25,2.5
+"Bowser, Morton",Splat Buggy,Button,Super Glider,4.75,3.0,3.5,2.25,2.5,3.0
+"Wario, Dry Bowser",Splat Buggy,Standard,Cloud Glider,4.75,3.0,3.5,2.5,3.25,2.75
+"Wario, Dry Bowser",Blue Falcon,Standard,Parafoil,4.75,3.0,3.75,2.5,3.5,3.0
+"Donkey Kong, Roy, Waluigi",Standard Kart,Off-Road,Wario Wing,4.75,3.0,4.5,2.5,3.0,2.5
+"Wario, Dry Bowser",Blue Falcon,Standard,Cloud Glider,4.75,3.0,3.5,2.5,3.75,3.0
+"Bowser, Morton",Standard Kart,Off-Road,Parafoil,4.75,3.0,4.75,2.0,3.0,2.5
+"Bowser, Morton",Splat Buggy,Leaf Tires,Wario Wing,4.75,3.0,3.75,2.25,2.25,3.0
+"Wario, Dry Bowser",Mercedes Silver Arrow,Off-Road,Wario Wing,4.75,3.0,4.5,2.5,3.75,2.5
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Off-Road,Parafoil,4.75,3.0,3.75,2.25,3.0,2.5
+"Wario, Dry Bowser",Mercedes Silver Arrow,Off-Road,Super Glider,4.75,3.0,4.25,2.5,4.0,2.5
+"Bowser, Morton",Mercedes Silver Arrow,Off-Road,Super Glider,4.75,3.0,4.5,2.25,3.75,2.5
+"Bowser, Morton",Mercedes Silver Arrow,Off-Road,Wario Wing,4.75,3.0,4.75,2.25,3.5,2.5
+"Bowser, Morton",Splat Buggy,Standard,Parafoil,4.75,3.0,4.0,2.25,2.75,2.75
+"Bowser, Morton",Splat Buggy,Standard,Cloud Glider,4.75,3.0,3.75,2.25,3.0,2.75
+"Bowser, Morton",Cat Cruiser,Off-Road,Super Glider,4.75,3.0,4.75,2.25,3.25,2.5
+"Wario, Dry Bowser",Splat Buggy,Standard,Parafoil,4.75,3.0,3.75,2.5,3.0,2.75
+"Bowser, Morton",Standard Kart,Off-Road,Cloud Glider,4.75,3.0,4.5,2.0,3.25,2.5
+"Bowser, Morton",Blue Falcon,Standard,Cloud Glider,4.75,3.0,3.75,2.25,3.5,3.0
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Off-Road,Wario Wing,5.0,2.75,4.0,2.25,3.0,2.25
+"Bowser, Morton",Standard Kart,Off-Road,Super Glider,5.0,2.75,4.75,2.0,3.25,2.25
+"Bowser, Morton",Splat Buggy,Off-Road,Parafoil,5.0,2.75,4.25,1.75,3.0,2.25
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Off-Road,Wario Wing,5.0,2.75,4.0,2.25,3.5,2.5
+"Bowser, Morton",Standard Kart,Off-Road,Wario Wing,5.0,2.75,5.0,2.0,3.0,2.25
+"Donkey Kong, Roy, Waluigi",Splat Buggy,Off-Road,Super Glider,5.0,2.75,3.75,2.25,3.25,2.25
+"Bowser, Morton",Splat Buggy,Standard,Wario Wing,5.0,2.75,4.25,2.25,2.75,2.5
+"Donkey Kong, Roy, Waluigi",Blue Falcon,Off-Road,Super Glider,5.0,2.75,3.75,2.25,3.75,2.5
+"Bowser, Morton",Splat Buggy,Off-Road,Cloud Glider,5.0,2.75,4.0,1.75,3.25,2.25
+"Bowser, Morton",Splat Buggy,Standard,Super Glider,5.0,2.75,4.0,2.25,3.0,2.5
+"Wario, Dry Bowser",Splat Buggy,Off-Road,Cloud Glider,5.0,2.75,3.75,2.0,3.5,2.25
+"Wario, Dry Bowser",Standard Kart,Off-Road,Super Glider,5.0,2.75,4.5,2.25,3.5,2.25
+"Wario, Dry Bowser",Splat Buggy,Standard,Super Glider,5.0,2.75,3.75,2.5,3.25,2.5
+"Wario, Dry Bowser",Blue Falcon,Standard,Wario Wing,5.0,2.75,4.0,2.5,3.5,2.75
+"Wario, Dry Bowser",Blue Falcon,Standard,Super Glider,5.0,2.75,3.75,2.5,3.75,2.75
+"Wario, Dry Bowser",Splat Buggy,Standard,Wario Wing,5.0,2.75,4.0,2.5,3.0,2.5
+"Bowser, Morton",Blue Falcon,Standard,Super Glider,5.0,2.75,4.0,2.25,3.5,2.75
+"Bowser, Morton",Blue Falcon,Standard,Wario Wing,5.0,2.75,4.25,2.25,3.25,2.75
+"Bowser, Morton",Blue Falcon,Off-Road,Cloud Glider,5.0,2.75,4.0,1.75,3.75,2.5
+"Bowser, Morton",Blue Falcon,Off-Road,Parafoil,5.0,2.75,4.25,1.75,3.5,2.5
+"Wario, Dry Bowser",Blue Falcon,Off-Road,Cloud Glider,5.0,2.75,3.75,2.0,4.0,2.5
+"Wario, Dry Bowser",Standard Kart,Off-Road,Wario Wing,5.0,2.75,4.75,2.25,3.25,2.25
+"Wario, Dry Bowser",Splat Buggy,Off-Road,Parafoil,5.0,2.75,4.0,2.0,3.25,2.25
+"Wario, Dry Bowser",Blue Falcon,Off-Road,Parafoil,5.0,2.75,4.0,2.0,3.75,2.5
+"Bowser, Morton",Splat Buggy,Off-Road,Wario Wing,5.25,2.5,4.5,1.75,3.0,2.0
+"Wario, Dry Bowser",Splat Buggy,Off-Road,Wario Wing,5.25,2.5,4.25,2.0,3.25,2.0
+"Bowser, Morton",Splat Buggy,Off-Road,Super Glider,5.25,2.5,4.25,1.75,3.25,2.0
+"Wario, Dry Bowser",Blue Falcon,Off-Road,Super Glider,5.25,2.5,4.0,2.0,4.0,2.25
+"Bowser, Morton",Blue Falcon,Off-Road,Wario Wing,5.25,2.5,4.5,1.75,3.5,2.25
+"Wario, Dry Bowser",Splat Buggy,Off-Road,Super Glider,5.25,2.5,4.0,2.0,3.5,2.0
+"Wario, Dry Bowser",Blue Falcon,Off-Road,Wario Wing,5.25,2.5,4.25,2.0,3.75,2.25
+"Bowser, Morton",Blue Falcon,Off-Road,Super Glider,5.25,2.5,4.25,1.75,3.75,2.25
+"Wario, Dry Bowser",Blue Falcon,Slick,Super Glider,5.5,2.0,4.0,2.25,2.5,2.0
+"Bowser, Morton",Circuit Special,Off-Road,Super Glider,5.5,2.0,5.0,1.5,2.75,1.5
+"Wario, Dry Bowser",Blue Falcon,Slick,Wario Wing,5.5,2.0,4.25,2.25,2.25,2.0
+"Bowser, Morton",Splat Buggy,Slick,Wario Wing,5.5,2.0,4.5,2.0,1.5,1.75
+"Bowser, Morton",Splat Buggy,Slick,Super Glider,5.5,2.0,4.25,2.0,1.75,1.75
+"Wario, Dry Bowser",B Dasher,Off-Road,Super Glider,5.5,2.0,4.75,1.75,3.25,1.75
+"Wario, Dry Bowser",Circuit Special,Off-Road,Super Glider,5.5,2.0,4.75,1.75,3.0,1.5
+"Wario, Dry Bowser",Splat Buggy,Slick,Super Glider,5.5,2.0,4.0,2.25,2.0,1.75
+"Wario, Dry Bowser",Splat Buggy,Slick,Wario Wing,5.5,2.0,4.25,2.25,1.75,1.75
+"Wario, Dry Bowser",Circuit Special,Off-Road,Wario Wing,5.5,2.0,5.0,1.75,2.75,1.5
+"Bowser, Morton",B Dasher,Off-Road,Super Glider,5.5,2.0,5.0,1.5,3.0,1.75
+"Bowser, Morton",Circuit Special,Off-Road,Wario Wing,5.5,2.0,5.25,1.5,2.5,1.5
+"Bowser, Morton",Blue Falcon,Slick,Wario Wing,5.5,2.0,4.5,2.0,2.0,2.0
+"Bowser, Morton",B Dasher,Off-Road,Wario Wing,5.5,2.0,5.25,1.5,2.75,1.75
+"Wario, Dry Bowser",B Dasher,Off-Road,Wario Wing,5.5,2.0,5.0,1.75,3.0,1.75
+"Bowser, Morton",Blue Falcon,Slick,Super Glider,5.5,2.0,4.25,2.0,2.25,2.0
+"Wario, Dry Bowser",Circuit Special,Slick,Wario Wing,5.75,1.5,5.0,2.0,1.25,1.25
+"Bowser, Morton",B Dasher,Slick,Super Glider,5.75,1.5,5.0,1.75,1.5,1.5
+"Bowser, Morton",B Dasher,Slick,Wario Wing,5.75,1.5,5.25,1.75,1.25,1.5
+"Wario, Dry Bowser",B Dasher,Slick,Wario Wing,5.75,1.5,5.0,2.0,1.5,1.5
+"Bowser, Morton",Circuit Special,Slick,Super Glider,5.75,1.5,5.0,1.75,1.25,1.25
+"Bowser, Morton",Circuit Special,Slick,Wario Wing,5.75,1.5,5.25,1.75,1.0,1.25
+"Wario, Dry Bowser",Circuit Special,Slick,Super Glider,5.75,1.5,4.75,2.0,1.5,1.25
+"Wario, Dry Bowser",B Dasher,Slick,Super Glider,5.75,1.5,4.75,2.0,1.75,1.5
