@@ -96,7 +96,7 @@ const TestAttributeForm = ({
           Attribute
         </label>
         <select
-          className="h-12 w-36"
+          className="h-12 w-36 p-2"
           name="attribute"
           onChange={(e) => {
             setSelectedAttribute(e.target.value);
