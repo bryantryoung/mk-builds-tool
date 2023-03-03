@@ -7,9 +7,11 @@ The UI was built with React for routing/templating and TailwindCSS for styling. 
 
 ## Demo
 The homepage prompts greets users with some Mario Kart specific custom styling and prompts them to select a trait to optimize on. Users have the option to select one of 7 stats to optimize: Speed, Acceleration, Weight, Handling, Traction, Mini-Turbo, and Balanced (the builds with the most balanced ratings overall, this would be considered the "best" builds generally).
+
 <img width="1414" alt="Screen Shot 2023-03-03 at 11 15 32 AM" src="https://user-images.githubusercontent.com/99948055/222787010-e9d39e7e-6815-4865-8c1e-19edb1bf7289.png">
 
 After selecting a trait and submitting the form, a table will display the top 10 build combinations - character, kart, wheels, and glider - to optimize that particular stat.
+
 <img width="1105" alt="Screen Shot 2023-03-03 at 11 15 49 AM" src="https://user-images.githubusercontent.com/99948055/222787060-70682bfc-6265-4fce-bd73-71a6b3a8a14a.png">
 
 
