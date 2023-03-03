@@ -18,5 +18,5 @@ After selecting a trait and submitting the form, a table will display the top 10
 ## API Design
 The app uses excel data containing the build combinations with their relative rating on each of the major stats. There are two routes that can be hit depending on which input the user selects. If the user opts to see the best "balanced" builds, the `fetch()` call on the frontend will hit the `/balanced-builds` route, which will sort the builds by calculating the sum of the product of each of the attribute ratings for a particular build. This way, the build with the most balanced combination of attributes will top the ranking, and not just a build with a really high rating in one metric. 
 
-If the user selects an attribute other than "Balanced", the `'/builds` route will be hit and returns the cleaned excel data and is then sorted accordingly.
+If the user selects an attribute other than "Balanced", the `/builds` route will be hit and returns the cleaned excel data and is then sorted accordingly.
 
