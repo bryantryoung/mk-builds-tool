@@ -5,7 +5,7 @@ const excelToJson = require("convert-excel-to-json");
 const buildsRoute = require("./routes/builds");
 const balancedBuildsRoute = require("./routes/balancedBuilds");
 
-const port = 5001;
+const port = process.env.PORT || 5001;
 const app = express();
 
 app.use(cors());

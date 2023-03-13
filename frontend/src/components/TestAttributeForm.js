@@ -18,6 +18,7 @@ const TestAttributeForm = ({
   /* useEffect(() => {
     fetchBuildData();
   }, []); */
+  const apiUrl = process.env.API_URL || "http://localhost:5001";
 
   const fetchBuildData = async () => {
     let attributeTableColumn;
@@ -54,7 +55,7 @@ const TestAttributeForm = ({
     // I: traction/grip
     // J: mini-turbo
     if (selectedAttribute === "Balanced") {
-      const buildData = await fetch("http://localhost:5001/balanced-builds")
+      const buildData = await fetch(`${apiUrl}/balanced-builds`)
         .then((res) => res.json())
         .then((data) => {
           console.log(data);
@@ -66,7 +67,7 @@ const TestAttributeForm = ({
       return;
     }
 
-    const buildData = await fetch("http://localhost:5001/builds")
+    const buildData = await fetch(`${apiUrl}/builds`)
       .then((res) => res.json())
       .then((data) => {
         console.log(data);
