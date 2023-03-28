@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 app.get("/", (req, res) => {
-  res.send("hello from api");
+  res.send("Hello from Mario Kart Builder API!");
 });
 
 app.get("/builds", buildsRoute);

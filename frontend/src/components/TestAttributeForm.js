@@ -18,7 +18,8 @@ const TestAttributeForm = ({
   /* useEffect(() => {
     fetchBuildData();
   }, []); */
-  const apiUrl = process.env.API_URL || "http://localhost:5001";
+  const apiUrl = process.env.REACT_APP_API_URL;
+  console.log(apiUrl);
 
   const fetchBuildData = async () => {
     let attributeTableColumn;
