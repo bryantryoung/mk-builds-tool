@@ -6,7 +6,7 @@
 The UI was built with React for routing/templating and TailwindCSS for styling. The api is a Node server built with Express.
 
 ## Demo
-The homepage prompts greets users with some Mario Kart specific custom styling and prompts them to select a trait to optimize on. Users have the option to select one of 7 stats to optimize: Speed, Acceleration, Weight, Handling, Traction, Mini-Turbo, and Balanced (the builds with the most balanced ratings overall, this would be considered the "best" builds generally).
+The homepage greets users with some Mario Kart specific custom styling and prompts them to select a trait to optimize on. Users have the option to select one of 7 stats to optimize: Speed, Acceleration, Weight, Handling, Traction, Mini-Turbo, and Balanced (the builds with the most balanced ratings overall, this would be considered the "best" builds generally).
 
 ![Screen Recording 2023-03-12 at 07 20 08 PM](https://user-images.githubusercontent.com/99948055/224584103-fd24de6e-aaec-47d1-8fac-b808f32983b6.gif)
 
