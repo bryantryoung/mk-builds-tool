@@ -55,7 +55,12 @@ const TestAttributeForm = ({
     // I: traction/grip
     // J: mini-turbo
     if (selectedAttribute === "Balanced") {
-      const buildData = await fetch(`${apiUrl}/balanced-builds`)
+      const buildData = await fetch(`${apiUrl}/balanced-builds`, {
+        method: "GET",
+        headers: {
+          "Allow-Control-Allow-Origin": "*",
+        },
+      })
         .then((res) => res.json())
         .then((data) => {
           console.log(data);
