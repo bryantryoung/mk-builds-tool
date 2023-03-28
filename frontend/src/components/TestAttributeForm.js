@@ -92,13 +92,13 @@ const TestAttributeForm = ({
 
   return (
     <form
-      className="flex flex-col justify-center items-center gap-10 sm:flex-row sm:items-end mt-10"
-      action="http://localhost:5001/builds"
+      className="flex flex-col justify-center items-center gap-10 sm:flex-row sm:items-end mt-10 mb-10"
+      action={apiUrl}
       method="GET"
       onSubmit={handleSubmit}
     >
       <div className="flex flex-col justify-center items-center gap-2 sm:mr-10">
-        <label htmlFor="attribute" className="font-medium text-lg">
+        <label htmlFor="attribute" className="font-medium text-lg text-white">
           Attribute
         </label>
         <select
