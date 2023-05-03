@@ -19,7 +19,6 @@ const TestAttributeForm = ({
     fetchBuildData();
   }, []); */
   const apiUrl = process.env.REACT_APP_API_URL;
-  console.log(apiUrl);
 
   const fetchBuildData = async () => {
     let attributeTableColumn;
@@ -64,7 +63,6 @@ const TestAttributeForm = ({
       })
         .then((res) => res.json())
         .then((data) => {
-          console.log(data);
           setTopBuilds(data);
           setIsLoading(false);
         })
@@ -76,14 +74,11 @@ const TestAttributeForm = ({
     const buildData = await fetch(`${apiUrl}/builds`)
       .then((res) => res.json())
       .then((data) => {
-        console.log(data);
-
         const topTenBuilds = data["optimal_wdupes"]
           .sort((a, b) =>
             a[attributeTableColumn] < b[attributeTableColumn] ? 1 : -1
           )
           .splice(0, 10);
-        console.log(topTenBuilds);
         setTopBuilds(topTenBuilds);
       })
       .catch((err) => console.log(err));
@@ -107,7 +102,6 @@ const TestAttributeForm = ({
           name="attribute"
           onChange={(e) => {
             setSelectedAttribute(e.target.value);
-            console.log(e.target.value);
           }}
           value={selectedAttribute}
         >

@@ -14,7 +14,7 @@ const BestBuilds = ({
   selectedAttribute,
 }) => {
   let id = 0;
-  console.log(topBuilds);
+
   return (
     <>
       {topBuilds[0] ? (
